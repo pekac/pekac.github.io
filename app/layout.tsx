@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
@@ -9,11 +8,6 @@ const montserrat = Montserrat({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Predrag Popovic",
-  description: "Personal Github Page Predrag Popovic",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -21,6 +15,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <title>Predrag Popovic</title>
+        <meta
+          name="description"
+          content="Personal Github Page Predrag Popovic"
+        ></meta>
+      </head>
       <body className={`${montserrat.variable} antialiased`}>
         <ChristmasWrapper>
           <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
