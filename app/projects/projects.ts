@@ -17,6 +17,15 @@ export const projects = [
     ],
   },
   {
+    title: "Portable Toiler Rental Management System",
+    role: "Solution Provider",
+    year: "2023",
+    description: [
+      "Drove a client's service capacity growth by 20x and enhanced operational efficiency by spearheading the digital transformation for a client's portable toilet rental business",
+      "Delivered a hands-on approach across the stack, from system design to feature implementation, while leading a dedicated engineering team of 5",
+    ],
+  },
+  {
     title: "Real-Time Multiplayer Graphical Survey Builder",
     role: "Solution Architect",
     year: "2022 – 2023",
@@ -24,15 +33,6 @@ export const projects = [
       "Revitalized a struggling project and improved the technical approach by addressing critical UI/UX performance issues caused by inadequate DOM handling",
       "Achieved a seamless user interaction by shifting the architecture from a traditional model to a local-first paradigm",
       "Incorporated a thin conflict-resolution layer",
-    ],
-  },
-  {
-    title: "Portable Toiler Rental Management System",
-    role: "Solution Provider",
-    year: "2022",
-    description: [
-      "Drove a client's service capacity growth by 20x and enhanced operational efficiency by spearheading the digital transformation for a client's portable toilet rental business",
-      "Delivered a hands-on approach across the stack, from system design to feature implementation, while leading a dedicated engineering team of 2",
     ],
   },
   {
@@ -46,20 +46,13 @@ export const projects = [
     ],
   },
   {
-    title: "Warehouse Management System",
-    role: "Front-end Engineer",
-    year: "2021",
-    description: [
-      "Developed a warehouse management system focused on improving operational efficiency and accuracy through indoor positioning technology",
-    ],
-  },
-  {
     title: "Construction Waste Management Platform",
-    role: "Solution Provider",
-    year: "2020 – 2021",
+    role: "Solution Architect & Technical Lead",
+    year: "2020 – 2022",
     description: [
-      "Engineered a construction waste management solution for a client and supervised the project from inception to deployment as a lead of a 10-person cross-functional team",
-      "Ensured the alignment of the platform with all client's requirements through involvement across the entire technology stack, from system architecture design to hands-on development",
+      "Architected and delivered a distributed system for real-time construction waste management, focusing on high availability and scalability across multiple construction sites",
+      "Implemented real-time synchronization, ensuring data consistency in poor connectivity conditions",
+      "Led a cross-functional team of 10 engineers while driving technical decisions across the entire stack, from system architecture to deployment strategies",
     ],
   },
   {
