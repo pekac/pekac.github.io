@@ -22,7 +22,7 @@ export default function Project({
         </div>
         <span className="text-gray-500 text-sm">{year}</span>
       </div>
-      <ul className="list-disc ml-4 text-gray-200 space-y-1 mt-2">
+      <ul className="list-disc ml-4 dark:text-gray-200 space-y-1 mt-2">
         {description.map((item, index) => (
           <li key={index} className="text-sm">
             {item}
