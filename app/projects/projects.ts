@@ -19,22 +19,22 @@ export const projects = [
     ],
   },
   {
-    title: "Portable Toiler Rental Management System",
-    role: "Solution Architect & Technical Lead",
-    year: "2023",
-    description: [
-      "Drove a client's service capacity growth by 20x and enhanced operational efficiency by spearheading the digital transformation for a client's portable toilet rental business",
-      "Led a dedicated engineering team of 5 while taking a hands-on approach across the stack, from system design to feature implementation",
-    ],
-  },
-  {
     title: "Real-Time Multiplayer Graphical Survey Builder",
     role: "Solution Architect",
     year: "2022 – 2023",
     description: [
       "Revitalized a struggling project and improved the technical approach by addressing critical UI/UX performance issues caused by inadequate DOM handling",
       "Achieved a seamless user interaction by shifting the architecture from a traditional model to a local-first paradigm",
-      "Incorporated a thin conflict-resolution layer",
+      "Incorporated a thin conflict-resolution layer enabling real-time collaboration between multiple users while maintaining data consistency",
+    ],
+  },
+  {
+    title: "Portable Toiler Rental Management System",
+    role: "Solution Architect & Technical Lead",
+    year: "2022",
+    description: [
+      "Drove a client's service capacity growth by 20x and enhanced operational efficiency by spearheading the digital transformation for a client's portable toilet rental business",
+      "Led a dedicated engineering team of 5 while taking a hands-on approach across the stack, from system design to feature implementation",
     ],
   },
   {
@@ -42,9 +42,9 @@ export const projects = [
     role: "Founder",
     year: "2021 - 2022",
     description: [
-      "Founded and led a children's educational game studio, assembling a cross-functional team of graphic designers, children's content writers, and child psychologists.",
-      "Developed the concept for an educational gaming platform focused on cognitive development through play, incorporating key areas like logic, empathy, and creative expression.",
-      "Directed the creation of an immersive game universe that combined educational psychology principles with engaging gameplay mechanics.",
+      "Founded and led a children's educational game studio, assembling a cross-functional team of graphic designers, children's content writers, and child psychologists",
+      "Developed the concept for an educational gaming platform focused on cognitive development through play, incorporating key areas like logic, empathy, and creative expression",
+      "Directed the creation of an immersive game universe that combined educational psychology principles with engaging gameplay mechanics",
     ],
   },
   {
