@@ -4,7 +4,8 @@ export const projects = [
     role: "Co-founder & CTO",
     year: "2024",
     description: [
-      "Delivered and architected a local marketplace for secondhand fashion, allowing users to buy, sell, and trade used clothing, accessories, and related items while taking a hands-on full-stack development approach",
+      "Delivered a local marketplace for secondhand fashion, allowing users to buy, sell, and trade used clothing, accessories, and related items",
+      "Designed for rapid feature deployment and seamless horizontal scaling utilizing different SaaS providers",
     ],
   },
   {
@@ -23,7 +24,7 @@ export const projects = [
     year: "2023",
     description: [
       "Drove a client's service capacity growth by 20x and enhanced operational efficiency by spearheading the digital transformation for a client's portable toilet rental business",
-      "Delivered a hands-on approach across the stack, from system design to feature implementation, while leading a dedicated engineering team of 5",
+      "Led a dedicated engineering team of 5 while taking a hands-on approach across the stack, from system design to feature implementation",
     ],
   },
   {
