@@ -5,7 +5,7 @@ export default function Home() {
         Predrag Popović
       </h1>
       <p className="self-center text-center">
-        Passionate software engineer who loves to build stuff
+        Passionate software engineer who loves to learn and build stuff
       </p>
 
       <h2 className="text-2xl font-medium self-center text-center">

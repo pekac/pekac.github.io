@@ -4,21 +4,22 @@ export const projects = [
     role: "Co-founder & CTO",
     year: "2024",
     description: [
-      "Developed a local marketplace for secondhand fashion, allowing users to buy, sell, and trade used clothing, accessories, and related items.",
+      "Delivered and architected a local marketplace for secondhand fashion, allowing users to buy, sell, and trade used clothing, accessories, and related items while taking a hands-on full-stack development approach",
     ],
   },
   {
     title: "Local Marketplace for Vacation Lodging",
-    role: "Solution Provider",
+    role: "Solution Architect & Technical Lead",
     year: "2018 – 2024",
     description: [
-      "Guided the development and launch of a local marketplace platform for vacation lodging with a hands-on focus on front-end development",
-      "Led a cross-functional team of 12 while efficiently collaborating with stakeholders to meet business requirements and deliver a robust solution",
+      "Designed and architected a scalable vacation rental marketplace from ground up, handling 100,000+ MAU with 99.9% uptime",
+      "Implemented a high-availability architecture with real-time booking system, achieving sub-second response times even during 10x traffic spikes",
+      "Built and led a cross-functional team of 12 engineers while taking the hands-on full-stack development approach",
     ],
   },
   {
     title: "Portable Toiler Rental Management System",
-    role: "Solution Provider",
+    role: "Solution Architect & Technical Lead",
     year: "2023",
     description: [
       "Drove a client's service capacity growth by 20x and enhanced operational efficiency by spearheading the digital transformation for a client's portable toilet rental business",
@@ -60,7 +61,7 @@ export const projects = [
     role: "Full-stack Engineer",
     year: "2020",
     description: [
-      "Developed a meta-framework for a casino application while streamlining rapid creation and deployment of uniquely branded casino platforms which allowed for rapid expansion of the market presence",
+      "Developed a meta-framework for a casino application to achieve rapid creation and deployment of uniquely branded casino platforms which allowed for rapid expansion of the market presence",
     ],
   },
   {
@@ -68,7 +69,7 @@ export const projects = [
     role: "Lead Full-stack Engineer",
     year: "2019",
     description: [
-      "Led the front-end development team of 7 engineers responsible for implementing key features while managing development efforts and external integrations under tight deadlines",
+      "Led the development team of 7 engineers responsible for implementing key features while managing development efforts and external integrations under tight deadlines",
     ],
   },
   {
