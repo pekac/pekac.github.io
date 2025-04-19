@@ -1,7 +1,6 @@
 import { Montserrat } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
-import ChristmasWrapper from "./_components/christmas-wrap";
 
 const montserrat = Montserrat({
   variable: "--font-montserrat",
@@ -23,7 +22,6 @@ export default function RootLayout({
         ></meta>
       </head>
       <body className={`${montserrat.variable} antialiased`}>
-        <ChristmasWrapper>
           <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
             <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start justify-center">
               {children}
@@ -68,7 +66,6 @@ export default function RootLayout({
               </a>
             </footer>
           </div>
-        </ChristmasWrapper>
       </body>
     </html>
   );
